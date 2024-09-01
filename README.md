@@ -44,12 +44,12 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)</br>
 
 
-**👣 Project & Study**
+## 👣 Project & Study
 </br>
 - 스터디 모집 안드로이드 앱 개발</br>
     [🔗기획/안드로이드 파트 참여](https://github.com/study-hub-inu/Study-hub-Android)  
 - 전시 예매 및 중개 웹사이트 개발</br>
-    - 기획/화면/서버 참여
+    - 기획/프론트/서버 참여</br>
     [🔗프론트레포지터리](https://github.com/ugyeong0u0/front_wooriarte)</br>
     [🔗백엔드레포지터리](https://github.com/ugyeong0u0/fisa-oheazy/tree/main)
 - 인프라 학습
