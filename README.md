@@ -47,10 +47,11 @@
 **👣 Project & Study**
 </br>
 - 스터디 모집 안드로이드 앱 개발</br>
-    [🔗안드로이드 파트 담당](https://github.com/study-hub-inu/Study-hub-Android)  
+    [🔗기획/안드로이드 파트 참여](https://github.com/study-hub-inu/Study-hub-Android)  
 - 전시 예매 및 중개 웹사이트 개발</br>
-    [🔗프론트레포지터리/화면 설계 및 개발 담당 ](https://github.com/ugyeong0u0/front_wooriarte)</br>
-    [🔗백엔드레포지터리/설계 및 CRUD담당](https://github.com/ugyeong0u0/fisa-oheazy/tree/main)
+    - 기획/화면/서버 참여
+    [🔗프론트레포지터리](https://github.com/ugyeong0u0/front_wooriarte)</br>
+    [🔗백엔드레포지터리](https://github.com/ugyeong0u0/fisa-oheazy/tree/main)
 - 인프라 학습
   
 
